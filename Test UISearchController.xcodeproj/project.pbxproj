@@ -12,6 +12,7 @@
 		157E12192094A2CA005985B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 157E12172094A2CA005985B7 /* Main.storyboard */; };
 		157E121B2094A2CD005985B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 157E121A2094A2CD005985B7 /* Assets.xcassets */; };
 		157E121E2094A2CD005985B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 157E121C2094A2CD005985B7 /* LaunchScreen.storyboard */; };
+		157E12262094A6B8005985B7 /* MySearchResultsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 157E12252094A6B8005985B7 /* MySearchResultsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		157E121A2094A2CD005985B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		157E121D2094A2CD005985B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		157E121F2094A2CD005985B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		157E12252094A6B8005985B7 /* MySearchResultsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySearchResultsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				157E12132094A2CA005985B7 /* AppDelegate.swift */,
 				157E12152094A2CA005985B7 /* ViewController.swift */,
+				157E12252094A6B8005985B7 /* MySearchResultsController.swift */,
 				157E12172094A2CA005985B7 /* Main.storyboard */,
 				157E121A2094A2CD005985B7 /* Assets.xcassets */,
 				157E121C2094A2CD005985B7 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				157E12162094A2CA005985B7 /* ViewController.swift in Sources */,
 				157E12142094A2CA005985B7 /* AppDelegate.swift in Sources */,
+				157E12262094A6B8005985B7 /* MySearchResultsController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
